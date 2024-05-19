@@ -14,7 +14,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
     - Website for Local Business (Real or Create a Fake Business)
 - Digital Clock
 - Todo App
-- Expense Tracker
+- [Expense Tracker](https://github.com/AiDarkEzio/Simple-Expense-Tracker) 
 - Vowel Counter
 - Pig Latin Generator
 - Weight Tracker App
