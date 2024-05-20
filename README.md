@@ -10,7 +10,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 
 ### Examples:
 - Static website
-    - Personal Website
+    - [Personal Website](https://github.com/AiDarkEzio/AiDarkEzio.github.io) ✔
     - Website for Local Business (Real or Create a Fake Business)
 - Digital Clock
 - Todo App
